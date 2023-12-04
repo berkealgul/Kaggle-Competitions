@@ -1,3 +1,3 @@
 ### Kaggle Getting Started Challenges
 
-spaceship titanic -> Deeplearning with pytorch. score = 0.48
+spaceship titanic -> Deeplearning with pytorch | score = 0.48
