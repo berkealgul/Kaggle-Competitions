@@ -1,3 +1,5 @@
 ### Kaggle Getting Started Challenges
 
-spaceship titanic -> DNN with pytorch | score = 0.66
+Spaceship Titanic -> DNN with pytorch | score = 0.66
+
+Multi-Class Prediction of Cirrhosis Outcomes -> DNN with pytorch | score 0.58 
