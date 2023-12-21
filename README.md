@@ -1,4 +1,4 @@
-### Kaggle Getting Started Challenges
+### Kaggle Challenges
 
 Spaceship Titanic -> DNN with pytorch | score = 0.66
 
